@@ -1,0 +1,10 @@
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\bin\Debug\Imprivata.exe.config
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\bin\Debug\Imprivata.exe
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\bin\Debug\Imprivata.pdb
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.csprojResolveAssemblyReference.cache
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.Properties.Resources.resources
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.csproj.GenerateResource.Cache
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.csproj.CoreCompileInputs.cache
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.exe
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.pdb
+C:\Personal\sourcecode\Imprivata\Imprivata\Imprivata\obj\Debug\Imprivata.TestForm.resources
